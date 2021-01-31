@@ -1,0 +1,1 @@
+# BAttlemage contains intermediate algos. It's good to know them

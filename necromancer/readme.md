@@ -1,0 +1,1 @@
+# Necromancer works with black magic. Do not open these algos if you are not sure you are ready
